@@ -1,0 +1,35 @@
+{
+    "user_001":{
+        "userEmail":"hyphen_admin@acmetest.com",
+        "verificationCode":"34067",
+        "userName":"ACMETEST"
+    },
+    "cr_post_001":{
+        "postByType":"Anonymous",
+        "postType":"MULTIPLE CHOICE",
+        "targetGroupName":"Arnaud",
+        "questionText":"This is the text question",
+        "file_path":"images/img1.jpg",
+        "options_values":["test option 1","test option 2"]
+    },
+    "cr_post_002":{
+        "postByType":"Official",
+        "postType":"MULTIPLE CHOICE",
+        "targetGroupName":"Chat with Meagan",
+        "questionText":"இது உரை கேள்வி",
+        "options_values":["சோதனை விருப்பம் 1","சோதனை விருப்பம் 1","சோதனை விருப்பம் 3","சோதனை விருப்பம் 4"]
+    },
+    "cr_post_003":{
+        "postByType":"Named",
+        "postType":"MULTIPLE CHOICE",
+        "targetGroupName":"All",
+        "questionText":"C'est la question du texte",
+        "options_values":["possibilité d'essai 1","possibilité d'essai 2","possibilité d'essai 3","possibilité d'essai 4","possibilité d'essai 5"]
+    },
+    "cr_post_004":{
+        "postByType":"Anonymous",
+        "postType":"OPEN",
+        "targetGroupName":"All",
+        "questionText":" The Journals, comprising most of Paul Blackburn’s final poems, is a milestone in the history of literary innovation, beyond the open field poetry of the BLACK MOUNTAIN SCHOOL and, earlier, vers libre (see PROSODY AND FREE VERSE) of IMAGISM. Blackburn wanted to create open-ended occasions out of ordinary, everyday experiences, and thereby to shape a form appearing to be, paradoxically, formless. He rejected traditional poetry’s point of view that saw certain historical events as grand or monumental and others as inconsequential and that, accordingly, insisted on poetry that followed rhetorical principles of argument first established in classical times and later reaffirmed in the Renaissance. He replaced syllogism with juxtaposition or contingency, logical deduction and inference with the vlogicv of experience, such as what a person sees or hears; and he relied on nouns and verbs, not adjectives and adverbs, on metonyms, not metaphors or symbols. others. othersothers others others othe"
+    }
+}

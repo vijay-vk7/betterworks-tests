@@ -1,0 +1,23 @@
+{
+  "userName":".sidebar-company-header",
+  "createPostBtn":"#create-button",
+  "xp_postBy":"//label[contains(@class, 'ant-radio-wrapper')]/span[2][text()='<postBy>']/../span/input",
+  "xp_postType":"//button[text()='<postType>']",
+  "targetGroupNameDropDown":".poll-group-picker-select",
+  "xp_targetGroupNameValues":"//div[contains(@class, 'Select-option')][text()='<grpName>']",
+  "xp_selectTargetGroupName":"//button[text()='Select']",
+  "questionTextArea":"#textAreaField",
+  "uploadFileToPost":"input[type='file']",
+  "postOptions":"[name='option<optionValue>']",
+  "xp_publishPostBtn":"//button[text()='Publish post']",
+  "latestPollPanel":{
+      "QuestionText":".pollPanel.selected .questionText",
+      "image":".pollPanel.selected img",
+      "xp_targetGroupName":"//div[contains(@class, 'pollPanel selected')]//span[contains(@class, 'hyphen')]"
+  },
+  "commentsPanelBody":{
+    "QuestionText":".pollPanel.selected .questionText",
+    "image":".pollPanel.selected img",
+    "options":".commentsPanelBody .voteOptionWrapper"
+  }
+}

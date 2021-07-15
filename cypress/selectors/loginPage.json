@@ -1,0 +1,5 @@
+{
+   "emailTextBox":"[name='email']",
+   "verificationCode":"[name='verificationCode']",
+   "loginBtn":".hyphenButton"
+}
