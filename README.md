@@ -22,5 +22,3 @@ npx cypress open
 ```
 ```
 Select the test spec file "createPost.spec.js" from the cypress test runner
-
-``
